@@ -1,1 +1,0 @@
-﻿(New-Object System.Net.WebClient).DownloadFile("https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/LICENSE.txt", "$env:TEMP\C2FRAMEWORK5000.exe")
